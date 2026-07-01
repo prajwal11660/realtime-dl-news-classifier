@@ -1,4 +1,4 @@
-# Agentic AI Dashboard
+# dl news classifier 
 
 A full-stack, high-performance dashboard designed to orchestrate, monitor, and visualize autonomous multi-agent workflows. This application couples a responsive React.js frontend with a GPU-optimized Python backend to deliver low-latency telemetry and real-time task decomposition using local LLMs.
 
